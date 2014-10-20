@@ -1,4 +1,4 @@
-Cocos2d-JS-v3-Tutorial-75---UILabel
+Cocos2d-JS v3 Tutorial 75 - UILabel
 ===================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/qeohg-ymeZM
